@@ -48,13 +48,11 @@ The system monitors **smoke (gas levels)** and **temperature**, then reacts usin
 
 ---
 
-## 📷 Project Pictures
+## Pictures
 
 ### Circuit in Tinkercad
-![Tinkercad Circuit]()
+![Tinkercad Circuit](images/smart_room_system_circuit.png)
 
-### Wiring Diagram
-![Wiring Scheme]()
 
 ---
 
@@ -63,4 +61,8 @@ The system monitors **smoke (gas levels)** and **temperature**, then reacts usin
 2. Adjust the **smoke sensor** and **temperature sensor** values in Tinkercad to test alarm and cooling behavior.  
 
 ---
- 
+
+## Future improvements
+- Make the fan (DC motor) speed change according to the temperature (if it is gotter, fan is stronger and vice versa)
+- Show sensor readings on LED screen
+- add a servo-controlled window to automatically open when smoke is detected
