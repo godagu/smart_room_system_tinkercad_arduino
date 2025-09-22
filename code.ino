@@ -19,7 +19,7 @@
 #define DELAY_BLINK 200
 #define DELAY_LOOP 10
 
-int gas = 0;
+int smoke = 0;
 
 void setup()
 {
@@ -34,10 +34,10 @@ void setup()
 
 void loop()
 {
-  gas = analogRead(A0);
-  float temp = analogRead(A1);
+  smoke = analogRead(INPUT_SMOKE);
+  float temp = analogRead(INPUT_TEMPERATURE);
   
-  if(gas > GAS_LIMIT){
+  if(smoke > GAS_LIMIT){
     digitalWrite(OUTPUT_GREEN_LED, LOW);
     
   	tone(OUTPUT_PIEZO, TUNE, RING_TIME);
