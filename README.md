@@ -51,7 +51,7 @@ The system monitors **smoke (gas levels)** and **temperature**, then reacts usin
 ## Pictures
 
 ### Circuit in Tinkercad
-![Tinkercad Circuit](images/smart_room_system_circuit.png)
+![Tinkercad Circuit](smart_room_system_circuit.png)
 
 
 ---
