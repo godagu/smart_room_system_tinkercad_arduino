@@ -63,6 +63,6 @@ The system monitors **smoke (gas levels)** and **temperature**, then reacts usin
 ---
 
 ## Future improvements
-- Make the fan (DC motor) speed change according to the temperature (if it is gotter, fan is stronger and vice versa)
+- Make the fan (DC motor) speed change according to the temperature (if it is hotter, fan is stronger and vice versa)
 - Show sensor readings on LED screen
 - add a servo-controlled window to automatically open when smoke is detected
