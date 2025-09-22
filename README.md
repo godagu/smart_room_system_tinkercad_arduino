@@ -57,8 +57,9 @@ The system monitors **smoke (gas levels)** and **temperature**, then reacts usin
 ---
 
 ## How to Run 
-1. Start simulation.  
-2. Adjust the **smoke sensor** and **temperature sensor** values in Tinkercad to test alarm and cooling behavior.  
+1. Go to [Tinkercad Link](https://www.tinkercad.com/things/aGrdCSkWkAf-smart-room-system?sharecode=J0OwmQaY6quuUg1aqFcvsNk3P55mnW5IJipCyeEkL9A)
+2. Start simulation.  
+3. Adjust the **smoke sensor** and **temperature sensor** values in Tinkercad to test alarm and cooling behavior.  
 
 ---
 
