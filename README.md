@@ -2,7 +2,7 @@
 
 **Author:** Goda Gutparakyte  
 **Course:** Intro to Robotics @ Vilnius University  
-**Assignment:** HW1: Creative build
+**Assignment:** HW1: Creative build   
 **Last Updated:** 2025-09-22  
 
 ---
@@ -65,4 +65,4 @@ The system monitors **smoke (gas levels)** and **temperature**, then reacts usin
 ## Future improvements
 - Make the fan (DC motor) speed change according to the temperature (if it is hotter, fan is stronger and vice versa)
 - Show sensor readings on LED screen
-- add a servo-controlled window to automatically open when smoke is detected
+- Add a servo-controlled window to automatically open when smoke is detected
